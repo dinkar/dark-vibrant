@@ -1,0 +1,22 @@
+{
+    "name": "dark-vibrant",
+    "displayName": "dark-vibrant",
+    "description": "A really really dark theme",
+    "version": "0.0.1",
+    "publisher": "n",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark-vibrant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-vibrant-color-theme.json"
+            }
+        ]
+    }
+}
